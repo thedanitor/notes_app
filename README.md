@@ -10,3 +10,4 @@ This project is from the Day 33 code along video from Udemy's 50 projects in 50 
 
 ### Things Learned
 
+* Can use marked CDN to parse text in markdown with ```marked()```
